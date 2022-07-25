@@ -1,5 +1,5 @@
 # Tire-Suspension-System-Task-02
-Design of Tire and Suspension System with specific Diamintion and we put it in the robot's leg
+Design of Tire and Suspension System with specific Diamintion and put it in the robot's leg
 
 # The result of Final project :
 ![full assembly motion](https://user-images.githubusercontent.com/108091352/180880584-c403f5fe-ee91-4b26-a5a8-aa8a19079aaa.png)
